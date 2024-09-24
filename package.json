@@ -1,0 +1,11 @@
+{
+  "name": "intoduction_to_nodejs",
+  "version": "1.0.0",
+  "description": "code tech ihifix",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript node"
+  },
+  "author": "Mr jibril",
+  "license": "MIT"
+}
